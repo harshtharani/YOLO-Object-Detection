@@ -86,7 +86,7 @@ python Video_Testing/video_detection.py
 ### Webcam Detection
 
 ```bash
-python Webcam_Testing/webcam_detection.py
+python Webcam_Detection/webcam_detection.py
 ```
 
 ## Sample Applications

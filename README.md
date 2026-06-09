@@ -40,7 +40,7 @@ YOLO-Object-Detection/
 │   ├── Output/
 │   └── video_detection.py
 │
-├── Webcam_Testing/
+├── Webcam_Detection/
 │   └── webcam_detection.py
 │
 ├── requirements.txt
